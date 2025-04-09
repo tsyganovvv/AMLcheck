@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'main',
+    'ethereum',
+    'tron',
+    'ton',
 ]
 
 MIDDLEWARE = [
